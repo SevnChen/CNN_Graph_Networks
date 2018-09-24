@@ -1,0 +1,2 @@
+model_checkpoint_path: "gcn_snapshot_200.ckpt"
+all_model_checkpoint_paths: "gcn_snapshot_200.ckpt"
